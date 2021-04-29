@@ -1,4 +1,4 @@
 # opencv-basic
 
 
-<li> OpenCv Using Python </li>
+<li> OpenCV Using Python </li>
