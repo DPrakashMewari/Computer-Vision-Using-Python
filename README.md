@@ -1,4 +1,7 @@
-# opencv-basic
+# Computer Vision Using Python
 
 
-<li> OpenCV Using Python </li>
+* Numpy Basic - Basics , Working With Images
+* OpenCV Using Python 
+* Deep Learning 
+
