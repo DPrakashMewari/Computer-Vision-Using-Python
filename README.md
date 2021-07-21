@@ -2,6 +2,6 @@
 
 
 * Numpy Basic - Basics , Working With Images
-* OpenCV Using Python 
+* OpenCV Using Python : Image Basic {Read ,Write,Making Shapes on Images}
 * Deep Learning 
 
